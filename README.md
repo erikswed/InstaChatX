@@ -19,7 +19,7 @@ My changes in first commit is adding:
 
 
 To run this you need: 
-- Demo ServerX located here
+- DemoServerInstaChatX located here
 - android-support-v7-appcompat.jar (create library project)
 - android-support-v4.jar (included)
 
