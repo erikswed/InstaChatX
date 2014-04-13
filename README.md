@@ -23,6 +23,8 @@ To run this you need:
 - android-support-v7-appcompat.jar (create library project)
 - android-support-v4.jar (included)
 
+It's been a while since this was posted so the DemoServerInstaChatX dep libs might be out of date. Delete and reimport the android-support-v4.jar's and for the server WAR folder also might need to updated some jars
+
 Don't forget to change InstaChat Constants.java and Demo server Constants.java with your API KEY and project id
 
 To smoothen the debugging I suggest
